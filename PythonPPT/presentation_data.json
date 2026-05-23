@@ -1,0 +1,206 @@
+{
+  "theme": {
+    "name": "light",
+    "primary": "#2E7D32",
+    "secondary": "#1976D2",
+    "accent": "#F59E0B",
+    "typography": {
+      "font_family": "Calibri",
+      "font_family_heading": "Calibri Light",
+      "hero": 54,
+      "h1": 40
+    },
+    "spacing_scale": 1.0
+  },
+  "settings": {
+    "slide_numbers": True,
+    "transitions": False,
+    "strict_mode": False
+  },
+  "slides": [
+    {
+      "layout": "hero",
+      "title": "Accessibility and Distribution of Urban Green Spaces",
+      "subtitle": "A Spatial Analysis of Kedamay Weyane Sub-City",
+      "cta": "Thesis Defense Presentation",
+      "image": "green_city.jpg"
+    },
+    {
+      "layout": "title",
+      "title": "Thesis Defense",
+      "subtitle": "Urban Green Space Accessibility Study",
+      "author": "Tsegay",
+      "date": "2026"
+    },
+    {
+      "layout": "content",
+      "title": "Introduction",
+      "content": "Urban green spaces play a crucial role in improving environmental quality, public health, and urban livability. However, rapid urbanization often leads to unequal distribution and limited accessibility of these spaces.",
+      "bullets": [
+        "Green spaces improve urban environmental quality",
+        "Support recreation and community interaction",
+        "Enhance public health and well-being",
+        "Urban growth often reduces available green areas"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Problem Statement",
+      "content": "Many rapidly growing cities experience uneven distribution of green spaces. Some neighborhoods have good access to parks while others lack adequate green areas.",
+      "bullets": [
+        "Unequal distribution of green spaces",
+        "Limited accessibility for many residents",
+        "Urban expansion reduces available green areas",
+        "Need for spatial analysis to support planning decisions"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Research Objectives",
+      "content": "The study aims to evaluate the distribution and accessibility of urban green spaces.",
+      "bullets": [
+        "Assess the spatial distribution of green spaces",
+        "Analyze accessibility for residents",
+        "Identify areas with limited green space access",
+        "Provide planning recommendations"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Research Questions",
+      "bullets": [
+        "How are green spaces distributed within the sub-city?",
+        "How accessible are these green spaces for residents?",
+        "Which areas lack adequate access to green spaces?",
+        "How can planning improve equitable distribution?"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Study Area",
+      "content": "The research focuses on Kedamay Weyane Sub-City, located in Mekelle, Ethiopia. The area is an important residential and service zone experiencing rapid urban development.",
+      "bullets": [
+        "Located in Mekelle City",
+        "Rapid urban development",
+        "High residential density",
+        "Growing demand for public green spaces"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Methodology",
+      "bullets": [
+        "GIS spatial analysis",
+        "Field observation",
+        "Household survey",
+        "Mapping and accessibility analysis"
+      ]
+    },
+    {
+      "layout": "process",
+      "title": "Research Process",
+      "steps": [
+        {"title": "Data Collection", "desc": "Satellite data, maps, and surveys"},
+        {"title": "Spatial Analysis", "desc": "GIS mapping of green spaces"},
+        {"title": "Accessibility Analysis", "desc": "Distance and service area analysis"},
+        {"title": "Evaluation", "desc": "Identify underserved areas"},
+        {"title": "Recommendation", "desc": "Planning strategies"}
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Literature Insight",
+      "bullets": [
+        "Urban green spaces improve environmental sustainability",
+        "Accessibility is essential for equitable urban development",
+        "WHO recommends minimum green space per capita",
+        "Planning policies should ensure fair distribution"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Case Study: Addis Ababa",
+      "content": "The Addis Ababa case study shows that rapid urbanization has reduced green spaces and created unequal distribution across the city.",
+      "bullets": [
+        "Green spaces concentrated in wealthier districts",
+        "Peripheral areas have limited access",
+        "Per capita green space below recommended standards",
+        "Highlights importance of spatial planning"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Case Study: Johannesburg",
+      "content": "The Johannesburg case study highlights spatial inequality in green space distribution due to historical planning patterns.",
+      "bullets": [
+        "Green spaces concentrated in high-income areas",
+        "Low-income communities have limited access",
+        "Planning policies aim to reduce inequality",
+        "Shows importance of equitable green space planning"
+      ]
+    },
+    {
+      "layout": "comparison",
+      "title": "Case Study Comparison",
+      "left_title": "Addis Ababa",
+      "right_title": "Johannesburg",
+      "left_points": [
+        "Rapid urban expansion",
+        "Loss of green spaces",
+        "Uneven spatial distribution",
+        "Need stronger planning control"
+      ],
+      "right_points": [
+        "Historical spatial inequality",
+        "Green spaces concentrated in rich areas",
+        "Policy efforts to reduce inequality",
+        "Focus on equitable green infrastructure"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Expected Outcomes",
+      "bullets": [
+        "Map of green space distribution",
+        "Accessibility analysis results",
+        "Identification of underserved neighborhoods",
+        "Recommendations for urban planning"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Significance of the Study",
+      "bullets": [
+        "Supports sustainable urban planning",
+        "Promotes equitable green space distribution",
+        "Improves urban environmental quality",
+        "Provides evidence for policy decisions"
+      ]
+    },
+    {
+      "layout": "content",
+      "title": "Conclusion",
+      "content": "Urban green spaces are essential for sustainable and livable cities. Understanding their spatial distribution and accessibility helps planners create healthier and more equitable urban environments.",
+      "bullets": [
+        "Green spaces improve quality of life",
+        "Accessibility must be considered in planning",
+        "Spatial analysis helps identify gaps",
+        "Planning should ensure equitable distribution"
+      ]
+    },
+    {
+      "layout": "quote",
+      "quote": "Cities are not just buildings and roads, they are spaces for people to live, interact, and thrive.",
+      "author": "Urban Planning Principle",
+      "role": "Sustainable City Development"
+    },
+    {
+      "layout": "content",
+      "title": "Thank You",
+      "bullets": [
+        "Thank you for your attention",
+        "Questions and discussion"
+      ]
+    }
+  ]
+}
